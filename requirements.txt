@@ -1,0 +1,5 @@
+pynput
+requests
+psutil
+cryptography
+pywin32 ; for windows only (optional)

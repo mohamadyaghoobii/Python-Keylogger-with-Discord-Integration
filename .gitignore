@@ -1,0 +1,15 @@
+# Ignore keylogs folder
+keylogs/
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore PyInstaller builds (if you make it an executable)
+build/
+dist/
+*.spec
